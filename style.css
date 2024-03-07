@@ -1,0 +1,22 @@
+div{
+    background-color: #23424A;
+    padding: 30px 40px 40px 30px;
+    margin-right: 500px;
+    margin-left: 500px;
+}
+#para{
+       color: white;
+       font-size: 48px;
+       font-family: Roboto Black;
+}
+
+#para2{
+    color: #136c72;
+    font-size: 15px;
+    font-family: 'Times New Roman', Times, serif ;
+}
+button{
+    background-color: #38CFD9;
+    border-radius: 5px;
+    padding: 7px 7px 7px 7px;
+}
